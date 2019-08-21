@@ -1,1 +1,1 @@
-FROM aledbf/kube-keepalived-vip:0.35
+FROM gcr.io/google_samples/k8szk:v3
